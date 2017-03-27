@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 ##-*- coding: utf-8 -*-
+#Выводит бегущуюю стороку с маской
 import time, random
 
 def ano(): # r-random f-flow
@@ -78,9 +79,9 @@ def ano(): # r-random f-flow
 					j = ' '
 				print(j, end = '')
 			print('\n', end = '')
-			time.sleep(0.07)
+			time.sleep(0.05)
 		print("999999999999 We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us 999999999999999993")
-		time.sleep(0.07)
+		time.sleep(0.05)
 	while True:
 		flow()
 
