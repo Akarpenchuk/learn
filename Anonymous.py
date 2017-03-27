@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 ##-*- coding: utf-8 -*-
-#Выводит бегущуюю стороку с маской
+#Выводит бегущуюю стороку с маской, для использования с добрымы намерениями
 import time, random
 
 def ano(): # r-random f-flow
